@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Animalandia</string>
+    <string name="mascota1">Mascota 1</string>
+    <string name="mascota2">Mascota 2</string>
+    <string name="mascota3">Mascota 3</string>
+    <string name="mascota4">Mascota 4</string>
+    <string name="mascota5">Mascota 5</string>
+    <string name="mascota6">Mascota 6</string>
+    <string name="Mejores">Las cinco mascotas con más likes son</string>
+</resources>
